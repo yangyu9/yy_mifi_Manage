@@ -1,0 +1,2 @@
+# yy_mifi_Manage
+yangyu账户用来测试更新代码文件是否移植到git使用
